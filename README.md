@@ -1,4 +1,6 @@
 # SEOvsSEM
 Search Engine Optimization and Search Engine Marketing
 
-# SEO :
+SEO : Search Engine Optimization
+
+SEM : Search Engine Marketing
